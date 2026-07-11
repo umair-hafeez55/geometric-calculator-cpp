@@ -60,7 +60,6 @@ The application provides a menu-driven interface for calculating properties of m
 - Switch Statements
 - Conditional Statements
 - Loops
-- Modular Programming
 - Mathematical Functions
 - User Input & Output
 
